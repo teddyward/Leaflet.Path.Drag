@@ -1,5 +1,7 @@
 # L.Path.Drag
 
+**The only change that I've made in this fork is to delete the examples, which referenced SVG files that didn't exist.**
+
 [![npm version](https://badge.fury.io/js/leaflet-path-drag.svg)](http://badge.fury.io/js/leaflet-path-drag) [![CircleCI](https://circleci.com/gh/w8r/Leaflet.Path.Drag/tree/master.svg?style=shield)](https://circleci.com/gh/w8r/Leaflet.Path.Drag/tree/master)
 
 Drag handler for [Leaflet](https://github.com/leaflet/leaflet) vector features.
